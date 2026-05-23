@@ -13,6 +13,7 @@ results/
 
 # 仅主目录下的 md 文件
 /*.md
+!README.md
 
 # pdf 文件，但保留复现论文.pdf
 *.pdf
